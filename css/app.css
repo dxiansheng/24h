@@ -1,0 +1,16 @@
+.menu1{
+    font-size: 30px;
+    padding: 10px;
+    color: #2aabd2;
+}
+.menu1+div,.menu1+div+div{
+    color:#ffff00;
+}
+.img1{
+    position:absolute;
+    width: 100px;
+    height:100px;
+    opacity:1;
+    top:200px;
+    left:100px;
+}
